@@ -1,0 +1,15 @@
+C:\Users\artem\RiderProjects\timeserver\timeserver\bin\Debug\net6.0\timeserver.exe
+C:\Users\artem\RiderProjects\timeserver\timeserver\bin\Debug\net6.0\timeserver.deps.json
+C:\Users\artem\RiderProjects\timeserver\timeserver\bin\Debug\net6.0\timeserver.runtimeconfig.json
+C:\Users\artem\RiderProjects\timeserver\timeserver\bin\Debug\net6.0\timeserver.dll
+C:\Users\artem\RiderProjects\timeserver\timeserver\bin\Debug\net6.0\timeserver.pdb
+C:\Users\artem\RiderProjects\timeserver\timeserver\obj\Debug\net6.0\timeserver.csproj.AssemblyReference.cache
+C:\Users\artem\RiderProjects\timeserver\timeserver\obj\Debug\net6.0\timeserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\RiderProjects\timeserver\timeserver\obj\Debug\net6.0\timeserver.AssemblyInfoInputs.cache
+C:\Users\artem\RiderProjects\timeserver\timeserver\obj\Debug\net6.0\timeserver.AssemblyInfo.cs
+C:\Users\artem\RiderProjects\timeserver\timeserver\obj\Debug\net6.0\timeserver.csproj.CoreCompileInputs.cache
+C:\Users\artem\RiderProjects\timeserver\timeserver\obj\Debug\net6.0\timeserver.dll
+C:\Users\artem\RiderProjects\timeserver\timeserver\obj\Debug\net6.0\refint\timeserver.dll
+C:\Users\artem\RiderProjects\timeserver\timeserver\obj\Debug\net6.0\timeserver.pdb
+C:\Users\artem\RiderProjects\timeserver\timeserver\obj\Debug\net6.0\timeserver.genruntimeconfig.cache
+C:\Users\artem\RiderProjects\timeserver\timeserver\obj\Debug\net6.0\ref\timeserver.dll

@@ -1,0 +1,15 @@
+C:\Users\artem\RiderProjects\timeclient\timeclient\bin\Debug\net6.0\timeclient.exe
+C:\Users\artem\RiderProjects\timeclient\timeclient\bin\Debug\net6.0\timeclient.deps.json
+C:\Users\artem\RiderProjects\timeclient\timeclient\bin\Debug\net6.0\timeclient.runtimeconfig.json
+C:\Users\artem\RiderProjects\timeclient\timeclient\bin\Debug\net6.0\timeclient.dll
+C:\Users\artem\RiderProjects\timeclient\timeclient\bin\Debug\net6.0\timeclient.pdb
+C:\Users\artem\RiderProjects\timeclient\timeclient\obj\Debug\net6.0\timeclient.csproj.AssemblyReference.cache
+C:\Users\artem\RiderProjects\timeclient\timeclient\obj\Debug\net6.0\timeclient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\RiderProjects\timeclient\timeclient\obj\Debug\net6.0\timeclient.AssemblyInfoInputs.cache
+C:\Users\artem\RiderProjects\timeclient\timeclient\obj\Debug\net6.0\timeclient.AssemblyInfo.cs
+C:\Users\artem\RiderProjects\timeclient\timeclient\obj\Debug\net6.0\timeclient.csproj.CoreCompileInputs.cache
+C:\Users\artem\RiderProjects\timeclient\timeclient\obj\Debug\net6.0\timeclient.dll
+C:\Users\artem\RiderProjects\timeclient\timeclient\obj\Debug\net6.0\refint\timeclient.dll
+C:\Users\artem\RiderProjects\timeclient\timeclient\obj\Debug\net6.0\timeclient.pdb
+C:\Users\artem\RiderProjects\timeclient\timeclient\obj\Debug\net6.0\timeclient.genruntimeconfig.cache
+C:\Users\artem\RiderProjects\timeclient\timeclient\obj\Debug\net6.0\ref\timeclient.dll
